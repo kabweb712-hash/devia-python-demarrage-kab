@@ -1,5 +1,3 @@
-
-"""
 # Variables et affichages
 
 prix_unitaire = 12
@@ -45,8 +43,7 @@ print("Quantité :", quantite)
 print("Frais Fixes :", frais_fixes)
 print("Total :", total)
 
-"""
-"""
+
 # Conditions
 
 prix_unitaire = 12
@@ -113,7 +110,6 @@ else :
 
 # Contrôle
 #### Quand le total article = 50, les frais de livraions ne s'appliquent plus. Ils s'appliquent jusqu'a 49
-"""
 
 
 # Boucles 
